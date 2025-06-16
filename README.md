@@ -5,3 +5,11 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 
 ### Observações do projeto
 A aplicação é exposta usando a porta 8080
+
+###
+Revisando conceitos kubernetes
+
+k3d cluster create meucluster --servers 1 --agents 2
+kubectl apply -f ./k8s/deployment.yaml 
+kubectl get all
+k3d cluster delete --all
