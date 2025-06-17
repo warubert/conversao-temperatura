@@ -6,10 +6,7 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 ### Observações do projeto
 A aplicação é exposta usando a porta 8080
 
-###
-Revisando conceitos kubernetes
-### Como executar comandos Bash
-
+### Revisando conceitos kubernetes
 
 ```bash
 #!/bin/bash
